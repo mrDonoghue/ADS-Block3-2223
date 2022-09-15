@@ -1,5 +1,4 @@
 # Links link
-## Setup
 ## Today's class
 * Write a function/method `twinsPresent` that accepts a list of snowflakes and returns `true` when there are at least two twin snowflakes. Assume that you have access to a function `snowflake_equal(s1,s2)` that accepts two snowflakes and returns True/False based on whether they're equal
 * Write `snowflake_equal(s1,s2)`
