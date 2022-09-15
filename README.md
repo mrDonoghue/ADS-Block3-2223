@@ -18,3 +18,5 @@
 * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Java in Y Minutes](https://learnxinyminutes.com/docs/java/)
 * [Anonymous Comment Box](https://app.formative.com/join/B2M25N)
+
+* [Join the replit course](https://replit.com/teams/join/gefxbjnuhxbiillwcznwenjdrtfupfbt-Algos-Block3-2223)
