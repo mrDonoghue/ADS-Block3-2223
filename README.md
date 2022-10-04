@@ -1,11 +1,18 @@
 # Links link
 
 ## Today's class summary
-* definitely definitely finish the snowflake problem the slow way
-* use dictionary/hash table/hash map to make a fast solution to the snowflake problem
-* Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing)
+* Sorting!!
+* Finish Fast snowflakes or it's HOMEWORK
+* Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
 
-## Today's class
+
+## Today's class links
+* [Sorting Challenge 0](https://www.advanced-ict.info/interactive/sorting_balance.html)
+* [Sorting Challenge 1](https://replit.com/@mrDonoghue/sortingDemo)
+* [Today's formative](https://app.formative.com/formatives/633c888bba52e66c0ee9793f)
+  - If you haven't joined the course yet, click [here](https://app.formative.com/join/B2M25N)
+
+# Snowflakes
 * Snowflake checklist:
   - `twinsPresent()` using `snowflake_equals`
   - `snowflake_equals` using `snowflake_equals_offset`
@@ -16,8 +23,6 @@
 * Repl: [PyCP0](https://replit.com/team/Algos-Block3-2223/PyCP0) or [JCP0](https://replit.com/team/Algos-Block3-2223/JCP0)
 ![snowflake instructions](files/images/snowflakes.png)
 
-* [Compound Words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing)
-  - Hint: how could you use hashing?
 
 
 ## Extra
