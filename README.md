@@ -14,6 +14,7 @@
 ### After big discussion
 * Repls: [PyCP0](https://replit.com/team/Algos-Block3-2223/PyCP0) or [JCP0](https://replit.com/team/Algos-Block3-2223/JCP0)
 * Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
+* Sorting repls: [Python](https://replit.com/team/Algos-Block3-2223/SortingPy) or [Java]https://replit.com/team/Algos-Block3-2223/SortingJ)
 
 
 ## Snowflakes
