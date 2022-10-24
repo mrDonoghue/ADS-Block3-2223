@@ -1,14 +1,14 @@
 # Links link
 
 ## Today's class summary
-* Finish Fast snowflakes or it's HOMEWORK
-* Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
-* Sorting!!
+* Sorting
+* Sorting timing and plotting experiments!
 
 
 ## Today's class links
-* Go to our [course replit team](https://replit.com/team/Algos-Block3-2223) and join a group for [SortingScratchPy](https://replit.com/team/Algos-Block3-2223/SortingPy) or [SortingJ](https://replit.com/team/Algos-Block3-2223/SortingJ). You MUST get approval from me to work alone.
+* Go to [SortingScratchPy](https://replit.com/team/Algos-Block3-2223/SortingPy) or [SortingJ](https://replit.com/team/Algos-Block3-2223/SortingJ)
 * [sorting wiki page](https://github.com/mrDonoghue/ADS-Block3-2223/wiki/sorting)
+* [Timing and plotting experiments](files/Experiments.md)
 
 
 ## Snowflakes
