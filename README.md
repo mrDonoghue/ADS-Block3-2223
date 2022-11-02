@@ -6,6 +6,7 @@
 
 
 ## Today's class links
+* [Reflection](https://forms.gle/UwxbZAGtVvMmGfADA)
 * Go to [SortingScratchPy](https://replit.com/team/Algos-Block3-2223/SortingPy) or [SortingJ](https://replit.com/team/Algos-Block3-2223/SortingJ)
 * [sorting wiki page](https://github.com/mrDonoghue/ADS-Block3-2223/wiki/sorting)
 * [Timing and plotting experiments](files/Experiments.md)
