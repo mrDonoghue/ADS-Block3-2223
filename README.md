@@ -2,7 +2,8 @@
 
 ## Today's class summary
 * Sorting
-* Sorting timing and plotting experiments!
+  - If you have 1 of sort3/sort4 done, you should skip to the next bullet, Experiments
+* [Experiments](files/Experiments.md)
 
 
 ## Today's class links

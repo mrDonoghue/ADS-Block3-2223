@@ -31,3 +31,12 @@ Open the [SortingPlotting](https://replit.com/team/Algos-Block3-2223/SortingPlot
   * In the console, enter each filename followed by enter/return
   * After the last filename, hit enter/return twice in a row, to let my program know that you're done
   * My program should show you a plot
+
+## Analysis
+* Record your answers to the following in a file in your repl
+* What is the biggest conclusion we can draw from the experiments?
+* Based on the shape of the graphs, which 3 sorts have (big picture) the same long-term running time?
+  - what simple function has approximately that shape?
+* Which sort(s) are a stand out as much much much better?
+* Plot just the fast sort(s) so you can get a better sense of the shape of their graphs
+  - What simple function does this shape look like?
