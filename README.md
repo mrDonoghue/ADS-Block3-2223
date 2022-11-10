@@ -1,20 +1,22 @@
 # Links link
 
 ## Today's class summary
-* Sorting
-  - If you have 1 of sort3/sort4 done, you should skip to the next bullet, Experiments
-* [Experiments](files/Experiments.md)
+* Abstract Data Types vs Data Structures
+* List ADT 
+* LinkedList Data Structure
 
 
 ## Today's class links
-* [Reflection](https://forms.gle/UwxbZAGtVvMmGfADA)
-* Go to [SortingScratchPy](https://replit.com/team/Algos-Block3-2223/SortingPy) or [SortingJ](https://replit.com/team/Algos-Block3-2223/SortingJ)
-* [sorting wiki page](https://github.com/mrDonoghue/ADS-Block3-2223/wiki/sorting)
-* [Timing and plotting experiments](files/Experiments.md)
-
+* [Course repl page](https://replit.com/team/Algos-Block3-2223)
 
 ## OLD
 * [Snowflakes](files/Snowflakes.md)
+* [Reflection](https://forms.gle/UwxbZAGtVvMmGfADA)
+#### Sorting
+* [sorting wiki page](https://github.com/mrDonoghue/ADS-Block3-2223/wiki/sorting)
+* [SortingScratchPy](https://replit.com/team/Algos-Block3-2223/SortingPy)
+* [SortingJ](https://replit.com/team/Algos-Block3-2223/SortingJ)
+* [Timing and plotting experiments](files/Experiments.md)
 
 
 
