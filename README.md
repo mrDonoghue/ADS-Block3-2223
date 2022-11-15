@@ -1,13 +1,13 @@
 # Links link
 
 ## Today's class summary
-* Abstract Data Types vs Data Structures
-* List ADT 
-* LinkedList Data Structure
+* LinkedList pseudocode
+* LinkedList code
 
 
 ## Today's class links
 * [Course repl page](https://replit.com/team/Algos-Block3-2223)
+* [List slides](https://drive.google.com/file/d/1OtmB6GmEwB99LGrcXlU2TAuU3A8QaqcF/view?usp=share_link)
 
 ## OLD
 * [Snowflakes](files/Snowflakes.md)
